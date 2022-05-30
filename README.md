@@ -10,4 +10,5 @@
 ## Call by seller succeeds after time has elapsed:
 ![Screenshot (31)](https://user-images.githubusercontent.com/101066095/170838491-eec8ed73-042d-4bf3-a251-73b36da0253f.png)
 
-![Screenshot (35)](https://user-images.githubusercontent.com/101066095/171044224-78c907c7-5f66-490c-b6c5-fee06d7b488b.png)
+![Screenshot (36)](https://user-images.githubusercontent.com/101066095/171044375-23db95f4-10dc-411f-bc69-ff386fafe833.png)
+
