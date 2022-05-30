@@ -10,5 +10,6 @@
 ## Call by seller succeeds after time has elapsed:
 ![Screenshot (31)](https://user-images.githubusercontent.com/101066095/170838491-eec8ed73-042d-4bf3-a251-73b36da0253f.png)
 
+## Comprehend a simple Hello World circuit:
 ![Screenshot (36)](https://user-images.githubusercontent.com/101066095/171044375-23db95f4-10dc-411f-bc69-ff386fafe833.png)
 
